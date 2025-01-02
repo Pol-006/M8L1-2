@@ -1,3 +1,16 @@
+import random
+def mensaje_random():
+    mensajes = [
+        "Recuerda que solo puedes poner 2 numeros",
+        "Recuerda que solo tenemos las 4 operaciones basicas es decir suma, resta. multiplicación. division",
+        "Pronto metere un historial",
+        "No está la potenciacion así que multiplica el mismo numero 2 veces",
+        "Tal vez meta logaritmos"
+    ]
+    return random.choice(mensajes)
+
+print(mensaje_random())
+
 class Calculadora:
     """Clase simple para realizar operaciones matemáticas básicas."""
     
