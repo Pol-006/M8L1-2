@@ -1,0 +1,7 @@
+OBJETIVOS DE PRUEBAS
+1.- Corre el codigo:
+El codigo corre con normalidad
+2.- Prueba operaciónes
+Todas las operaciones funcionan con normalidad
+3.- Los mensajes randoms actuan con normalidad
+Cada vez que corre el codigo aleatoriamente se escoge un frase
